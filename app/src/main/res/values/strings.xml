@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraForm</string>
+    <string name="fileautority_path">com.skfaisal.cameraform.fileprovider</string>
+</resources>
